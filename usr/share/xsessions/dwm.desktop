@@ -1,0 +1,9 @@
+[Desktop Entry]
+Name=dwm
+Comment=suckless dynamic window manager
+Exec=/etc/X11/xinit/Xsession
+Type=Application
+X-LightDM-DesktopName=dwm
+DesktopNames=dwm
+Keywords=tiling;wm;windowmanager;window;manager;
+
