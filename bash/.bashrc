@@ -3,6 +3,7 @@ if [ -f /etc/bashrc ]; then
 	. /etc/bashrc
 fi
 
-PATH="$HOME/.local/bin:$HOME/bin:$PATH"
-export PATH
+export PATH="$PATH:$HOME/bin"
+export PATH="$PATH:$HOME/.scripts"
+export PATH="$PATH:$HOME/.cargo/bin"
 
