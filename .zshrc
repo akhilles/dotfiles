@@ -1,3 +1,4 @@
+source ~/.profile
 source ~/.zsh_aliases
 source <(antibody init)
 
